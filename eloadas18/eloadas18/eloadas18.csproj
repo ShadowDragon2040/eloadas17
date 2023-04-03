@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAF6C971-4193-4025-8339-3B3B091A33D9}</ProjectGuid>
+    <ProjectGuid>{F126E589-AADF-470D-8CFD-D80726094AB1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>eloadas17</RootNamespace>
-    <AssemblyName>eloadas17</AssemblyName>
+    <RootNamespace>eloadas18</RootNamespace>
+    <AssemblyName>eloadas18</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exceptions\ISBN_NumberFormatException.cs" />
+    <Compile Include="Exceptions\ISBN_NumberLengthException.cs" />
+    <Compile Include="KonyvesPolc.cs" />
+    <Compile Include="Osztaly_Konyv.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,8 @@
+C:\Balázs\programozás\eloadas18\eloadas18\bin\Debug\eloadas18.exe.config
+C:\Balázs\programozás\eloadas18\eloadas18\bin\Debug\eloadas18.exe
+C:\Balázs\programozás\eloadas18\eloadas18\bin\Debug\eloadas18.pdb
+C:\Balázs\programozás\eloadas18\eloadas18\obj\Debug\eloadas18.csproj.AssemblyReference.cache
+C:\Balázs\programozás\eloadas18\eloadas18\obj\Debug\eloadas18.csproj.SuggestedBindingRedirects.cache
+C:\Balázs\programozás\eloadas18\eloadas18\obj\Debug\eloadas18.csproj.CoreCompileInputs.cache
+C:\Balázs\programozás\eloadas18\eloadas18\obj\Debug\eloadas18.exe
+C:\Balázs\programozás\eloadas18\eloadas18\obj\Debug\eloadas18.pdb
